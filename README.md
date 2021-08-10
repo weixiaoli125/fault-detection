@@ -25,6 +25,6 @@ Run transfer_train.py to start the transfer learning stage.
 
 ## Validation on field examples
 
-To verify the generalization ability of our model, we also test it with some real data from Netherland offshore F3 block complete.(https://www.opendtect.org/osr/Main/NetherlandsOffshoreF3BlockComplete4GB).
+To verify the generalization ability of our model, we also test it with some real data from Netherland offshore F3 block (https://www.opendtect.org/osr/Main/NetherlandsOffshoreF3BlockComplete4GB).
 
 More detail can be found in manuscript.
