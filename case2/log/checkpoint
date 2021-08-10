@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/\346\233\264\346\255\243/0616/1_23/alpha_choose/0.75/\351\242\204\350\256\255\347\273\203transfer_3/log/521model.ckpt"
+all_model_checkpoint_paths: "E:/\346\233\264\346\255\243/0616/1_23/alpha_choose/0.75/\351\242\204\350\256\255\347\273\203transfer_3/log/521model.ckpt"
