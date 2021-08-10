@@ -6,7 +6,7 @@ Xiao-Li We, Chun-Xia Zhang, Sang-Woon Kim, Kai-Li Jing, Zhuang-Zhuang Xie, Shuan
 ## Getting Start for fault detection
 
 ##Run an example for fault prediction
-If you would just like to try predict example, then you can run transfer_test_matrix.py and dowmload the folder[log] to use.
+If you would just like to try predict example, then you can run test_transfer_matrix.py and dowmload the folder[log] to use.
 
 ### Dataset
 **To train our CNN network, with the help of the open source code from Hale ( https://github.com/dhale/ipf), we automatically created 800 pairs of synthetic seismic image and corresponding binary masks. 
