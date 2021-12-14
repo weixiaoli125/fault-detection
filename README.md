@@ -1,6 +1,6 @@
 # fault detection: Seismic Fault Detection Using Convolutional Neural Networks with Focal Loss
 
-Xiao-Li We, Chun-Xia Zhang, Sang-Woon Kim, Kai-Li Jing, Zhuang-Zhuang Xie, Shuang Xu
+Xiao-Li We, Chun-Xia Zhang, Sang-Woon Kim, Kai-Li Jing, Yong-Jun Wang, Shuang Xu, Zhuang-Zhuang Xie 
 
 **This code implemented by Xiao-Li We for 2D seismic fault detection is based on TensorFlow 1.14.0. GPU is RTX 2080 Ti.
 
